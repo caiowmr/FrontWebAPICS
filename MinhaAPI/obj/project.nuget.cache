@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mText0fOtxGChK7WW5Al67JsRFNj+cEOINIZWk/96fT3wtvha2U9RY3V0uGtHjMc29ZoDzPR+o/f7X6874R//g==",
+  "dgSpecHash": "iPhOwuDwT6ooSae/g5F8OPTZXCj5rsSDprTToePIx/tXB3VusFq5hwvaVo86nZoK1M6J7sLqL8KUjXX8hvNBUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caio\\Documents\\1 Projetos\\WEBApi\\MinhaAPI\\MinhaAPI.csproj",
+  "projectFilePath": "C:\\Users\\Caio\\Documents\\GitHub\\FrontWebAPICS\\MinhaAPI\\MinhaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Caio\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
